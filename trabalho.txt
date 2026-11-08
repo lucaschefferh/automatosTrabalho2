@@ -1,0 +1,15 @@
+O trabalho será realizado em cinco (05) equipes de cinco (05) integrantes e uma (01) equipe de seis (06) integrantes. Cada equipe deverá construir a Gramática Livre de Contexto sorteada do arquivo Lista de Exercícios do Trabalho de Linguagens Livre de Contexto (em anexo), simplifica-la (se necessário), deixa-la na Forma Normal de Chomsky e desenvolver um programa que simule o processo de derivação da Gramática na FNC. Após gravar um vídeo apresentando os seguintes itens:
+
+    Construção da Gramática Livre de Contexto  (2,0 ptos)
+    Simplificação e Forma Normal de Chomsky (2,0 ptos)
+    Código do programa (apresentar o código) (2,0 ptos)
+    Funcionamento do programa (apresentar a execução do programa) (4,0 ptos)
+
+O programa deverá ter as seguintes características:
+
+    Deverá mostrar a gramática original desenvolvida e na Forma Normal de Chomsky.
+    Deverá possuir parte gráfica mostrando o processo de derivação da gramática (árvore de derivação).
+    Deverá ler um arquivo de entrada contendo as sentenças de aceite e rejeite descritas no arquivo da Lista de Exercícios do Trabalho de Linguagens Livre de Contexto.
+
+O nosso exercicio é o 6.
+
