@@ -1,0 +1,10 @@
+{
+  "_comentario": "Exercício 6: parênteses balanceados OU colchetes balanceados, sem misturar. Corpos separados por espaço; ε = vazio.",
+  "inicial": "S",
+  "producoes": {
+    "S": ["P", "C"],
+    "P": ["( P ) P", "ε"],
+    "C": ["[ C ] C", "ε"]
+  },
+  "nomes_terminais": {"(": "A", ")": "B", "[": "D", "]": "E"}
+}
