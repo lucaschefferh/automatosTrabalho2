@@ -1,0 +1,13 @@
+# sentença ; resultado esperado   (ε = cadeia vazia)
+ε ; aceita
+() ; aceita
+(()) ; aceita
+()() ; aceita
+[] ; aceita
+[[]] ; aceita
+[][] ; aceita
+([]) ; rejeita
+()[] ; rejeita
+(] ; rejeita
+)( ; rejeita
+[() ; rejeita
